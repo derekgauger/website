@@ -1,0 +1,17 @@
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400;1,400;1,500&display=swap");
+
+/* Global Variable */
+:root {
+    --main: #FF9629;
+}
+
+* {
+    font-family: "Besley", serif;
+    transition: 0.3s;
+}
+
+*::selection {
+    background: var(--main);
+    color: #FFF !important;
+}

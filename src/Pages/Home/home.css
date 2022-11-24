@@ -1,0 +1,14 @@
+.map {
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 25px;
+    padding-bottom:25px;
+    
+}
+
+.map-container {
+    height: 75vh;
+}
