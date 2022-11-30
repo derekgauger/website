@@ -1,14 +1,68 @@
 .map {
-    margin: auto;
-    width: 100%;
+    vertical-align: top;
     height: 100%;
-    padding-left: 250px;
-    padding-right: 250px;
+    width: 90%; 
+    padding-left: 100px;
+    padding-right: 100px;
     padding-top: 25px;
     padding-bottom:25px;
-    
+
 }
 
 .map-container {
+    display: inline-block;
+    width: 100%;
     height: 75vh;
+    display: flex;
+    justify-content: center;
+    vertical-align: center;
+}
+
+.vertical-line {
+    --border-size: 5px;
+    height: 65%;
+    border-left: var(--border-size) solid var(--main);
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    z-index: 1;
+}
+
+.about-container {
+    padding-top: 1%;
+    width: 100%;
+    overflow-wrap: break-word;
+    inline-size: 90vw;
+    margin-left: 5vw;
+
+}
+
+.about-header {
+    font-size: 2em;
+    width: 100%;
+
+}
+
+.about-text {
+    padding: 10px;
+}
+
+.about-header span {
+    color: var(--main) !important;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.map-blurb {
+    overflow-wrap: break-word;
+    inline-size: 90vw;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.map-blurb span {
+    color: var(--main);
+    font-weight: 600;
 }

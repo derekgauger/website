@@ -1,5 +1,6 @@
 import "./App.css"
 import { Navbar } from "./Components"
+import { Footer } from "./Components"
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import { Home } from "./Pages"
 import { Projects } from "./Pages"
@@ -18,6 +19,7 @@ const App = () => {
                     <Route path="/contact" element={<Contact/>}></Route>
                 </Routes>
             </Router>
+            <Footer/>
         </>
     )
 }

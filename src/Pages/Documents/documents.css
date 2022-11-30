@@ -1,0 +1,11 @@
+iframe {
+    margin: 0 auto;
+    width: 1500px;
+    height: 100vh;
+}
+
+.resume-container {
+    width: 100%;
+    display: flex;
+    padding: 10px;
+}

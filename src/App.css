@@ -8,10 +8,15 @@
 
 * {
     font-family: "Besley", serif;
-    transition: 0.3s;
+    /* transition: 0.3s; */
+    color: white;
 }
-
-*::selection {
+/* *::selection {
     background: var(--main);
     color: #FFF !important;
+} */
+
+body {
+    background-color: rgb(63, 63, 61);
+    padding-top: 95px;
 }

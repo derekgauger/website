@@ -1,0 +1,93 @@
+form {
+    padding-top: 3%;
+    padding-bottom: 2%;
+    width: 100%;
+    display: block;
+    height: 100%;
+    text-align: left;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    height: 65vh;
+    min-height: 600px;
+}
+
+.contact-container {
+    display: flex;
+    padding-top: 4vh;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.contact-container span {
+    font-size: 1.5em;
+    margin-left: 25%;
+    color: var(--main);
+}
+
+#form-input-control-last-name, #form-input-control-email {
+    color: black;
+    display: flex;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 15px;
+    border-spacing: 100px;
+    border-left: 5px solid var(--main);
+}
+
+#form-textarea-control-opinion {
+    color: black;
+    display: flex;
+    margin: auto;
+    width: 50%;
+    height: 300px;
+    border-left: 5px solid var(--main);
+}
+
+button {
+    text-align: center;
+    margin: auto;
+    margin-top: 1vh;
+    display: block;
+    background-color: rgb(47, 47, 45);
+    border: 0;
+    color: var(--main);
+    width: 8vw;
+    height: 5vh;
+    font-size: 1.4em;
+    min-width: 100px;
+    min-height: 50px;
+
+}
+
+.contact-text-container {
+    margin-top: 2%;
+    width: 100%;
+    overflow-wrap: break-word;
+    inline-size: 90vw;
+    margin-left: 5vw;
+    text-align: center;
+    padding-bottom: 7vh;
+
+}
+
+.contact-text {
+    font-size: 1em;
+    width: 100%;
+
+}
+
+.vertical-line {
+    --border-size: 5px;
+    height: 50%;
+    display: flex;
+    border-left: var(--border-size) solid var(--main);
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    z-index: 1;
+
+}

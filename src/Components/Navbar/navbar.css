@@ -1,7 +1,12 @@
 .navbar{
+    width: 100%;
     padding: 10px;
     display: flex;
     justify-content: space-between;
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    z-index: 2;
 }
 .navbar-brand{
     font-size: 3em;
@@ -10,6 +15,12 @@
 }
 
 .navbar-brand span{
+    color: var(--main) !important;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+.nav-link span{
     color: var(--main) !important;
     font-weight: 600;
     font-size: 1em;
@@ -30,4 +41,8 @@
 
 .nav-link:hover {
     color: var(--main) !important;
+}
+
+.navbar-custom {
+    background-color: rgb(47, 47, 45);
 }

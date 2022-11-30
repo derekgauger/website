@@ -1,0 +1,70 @@
+.project-container {
+    padding-top: 1%;
+    width: 100%;
+    overflow-wrap: break-word;
+    inline-size: 90vw;
+    margin-left: 5vw;
+
+}
+
+.project-header {
+    font-size: 2em;
+    width: 100%;
+
+}
+
+.project-header a {
+    color: var(--main) !important;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.project-header span {
+    color: var(--main) !important;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.project-text {
+    padding: 10px;
+    width: 100%;
+}
+
+.project-text span {
+    color: var(--main) !important;
+    font-size: 1em;
+    text-align: center;
+    width: 100%;
+}
+
+.project-subheader {
+    color: var(--main) !important;
+    width: 100%;
+    font-size: 1.2em;
+    text-align: center;
+    padding-bottom: 1vh;
+}
+
+img {
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 40%;
+    border-left: 5px solid var(--main);
+}
+
+.video {
+    display: inline-block;
+    width: 50%;
+    height: 40vh;
+    margin: auto;
+    padding-top: 10px
+}
+
+.note-at-top {
+    text-align: center;
+    padding-top: 25px;
+    font-size: 1.5em;
+    font-weight: 600;
+}

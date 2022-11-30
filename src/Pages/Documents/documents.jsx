@@ -1,8 +1,13 @@
+import './documents.css'
+import resume from '../../Documents/Resume - Derek Gauger.pdf'
+
 const Documents = () => {
     
     return (
-        <>
-            <h1>This is Documents</h1>
+        <>  
+            <div className='resume-container'>
+                <iframe src={resume}title="resume"></iframe>
+            </div>
         </>
     )
 }

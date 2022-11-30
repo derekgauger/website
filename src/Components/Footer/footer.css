@@ -1,0 +1,11 @@
+footer {
+    background: rgb(47, 47, 45);
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.footer-text {
+    margin: 5px;
+}
