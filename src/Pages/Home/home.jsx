@@ -22,14 +22,14 @@ const Home = () => {
                     <p>
                         Howdy, I am from a small town of about 10,000 people called Elkhorn, Wisconsin. However, a good portion of my childhood was spent in Delavan, Wisconsin (One of Elkhorn's neighboring towns). 
                         My family moved locations when I was in middle school and since then, I've always thought of Elkhorn as my Hometown. I graduated from the Elkhorn Area School District in Spring of 2019. 
-                        After highschool graduation, I set my goals to college graduation. I had already been accepted into the Milwaukee School of Engineering (MSOE) and began attending in Fall of 2019 as a Software Engineering major. 
+                        After high school graduation, I set my goals to college graduation. I had already been accepted into the Milwaukee School of Engineering (MSOE) and began attending in Fall of 2019 as a Software Engineering major. 
                         Everything was going great until the Coronavirus epidemic came around ended up sending us all home for about a year and a half. 
                         Classes became a bit harder because there was so much going on in everyone's lives during that time. Eventually, the COVID restrictions passed, and we were all able to go back to school. 
-                        The time back in person was refreshing after such a long time. I plan to graduate from MSOE in Spring of 2023 with a Bachelor's in Software Engineering. I've already accepted an offer for a full-time
+                        After being away for so long, being back in-person was refreshing. I plan to graduate from MSOE in Spring of 2023 with a Bachelor's in Software Engineering. I've already accepted an offer for a full-time
                         position after graduation at my current internship, Astronautics.
                         <br/><br/>
                         One of my biggest passions/hobbies is disc golf. I had never heard of the sport before being invited to join a few of my friends for a round. Needless to say, I enjoyed playing it and the
-                        obsessive urge to learn more had taken over. I started watching YouTube video trying to understand techniques, disc types, and how professionals play. One summer, I decided I wanted to learn to throw further,
+                        obsessive urge to learn more had taken over. I started watching YouTube video trying to understand techniques, disc types, and how professionals play. One summer, I decided I wanted to learn to throw farther,
                         so I went out to a field every day and practiced, recorded myself, and learned. I can proudly say that it all worked out. I told my parents that I would figure it out and be good at the game, so if 
                         you guys are reading this... told ya so.
                         <br/><br/>
