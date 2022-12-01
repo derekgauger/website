@@ -82,10 +82,10 @@ const Projects = () => {
                         Months such as "National Grapefruit Month", "National Snack Food Month", and "National Bake for Family Fun Month".
                     </p>
                     <div className='project-subheader'>Examples of National Day Posts</div>
-                    <img src={national_img1} alt="Cake Day"></img>
-                    <img src={national_img2} alt="Other National Days"></img>
+                    <img className="project-img" src={national_img1} alt="Cake Day"></img>
+                    <img className="project-img" src={national_img2} alt="Other National Days"></img>
                     <div className='project-subheader'>Examples of National Month Posts</div>
-                    <img src={national_img3} alt="National Months Example"></img>
+                    <img className="project-img" src={national_img3} alt="National Months Example"></img>
                 </div>
             </div>
 
@@ -104,16 +104,16 @@ const Projects = () => {
                         but here are some pictures showing some basics of what I did. (I am not sure why I chose pink for the base color)
                     </p>
                     <div className='project-subheader'>List of commands to get information about the plugin</div>
-                    <img src={info} alt="Info"></img>
+                    <img className="project-img" src={info} alt="Info"></img>
                     <div className='project-subheader'>Shops you can navigate to using this GUI</div>
-                    <img src={shops} alt="Shops"></img>
-                    <img src={sell_shop} alt="Sell Shop"></img>
+                    <img className="project-img" src={shops} alt="Shops"></img>
+                    <img className="project-img" src={sell_shop} alt="Sell Shop"></img>
                     <div className='project-subheader'>Community commands admins can do</div>
-                    <img src={community} alt="Community"></img>
+                    <img className="project-img" src={community} alt="Community"></img>
                     <div className='project-subheader'>Economy implementation</div>
-                    <img src={eco} alt="Economy"></img>
+                    <img className="project-img" src={eco} alt="Economy"></img>
                     <div className='project-subheader'>"Care Packages" you can earn by doing certain things</div>
-                    <img src={cp} alt="Care Package"></img>
+                    <img className="project-img" src={cp} alt="Care Package"></img>
 
                 </div>
             </div>
