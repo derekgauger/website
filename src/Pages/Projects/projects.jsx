@@ -42,7 +42,7 @@ const Projects = () => {
                         <br/><br/>
                         The main portion of the project that I've been working on is the Blockchain research and implementation. I've learned a lot about how Blockchain works behind the scenes, use-cases, and 
                         pros/cons in different situations. Molson Coors is not requiring us to use any specific technologies, but we would like to provide them with Blockchain research and a basic proof-of-concept solution 
-                        so the Emerging Technology team can use that information in other areas. We have been researching different methods of traceing kegs throuhgout the supply-chain including radio frequency identification 
+                        so the Emerging Technology team can use that information in other areas. We have been researching different methods of tracing kegs throuhgout the supply-chain including radio frequency identification 
                         (RFID), QR Codes, and barcodes with the scanners needed for each. We will currently be moving forward with RFID and Blockchain, but this system as a solution may change throughout the prototyping process.
                         <br/><br/>
                         Unlike other projects in this list, this one is currently still in progress and is under a non-diclosure agreement for code and other company specific information. Writing these descriptions does not violate any agreements.
